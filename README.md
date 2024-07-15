@@ -21,9 +21,6 @@
 <b>Gender:</b> he/him/Male
 </li>
 <li>
-<b>Site:</b> https://parsher.xyz
-</li>
-<li>
 <b>Hobbys:</b> Digital drawing, Making youtube videos and Software.
 </li>
 
